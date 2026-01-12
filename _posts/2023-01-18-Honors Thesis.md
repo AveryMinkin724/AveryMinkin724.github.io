@@ -29,6 +29,18 @@ Mediapipe ['Pose'][Pose] and ['Hands'][Hands] only support singlebody tracking. 
 
 {% endhighlight %}
 
+## MASS URC Thesis Presentation 
+
+<iframe
+  src="https://docs.google.com/presentation/d/e/2PACX-1vS3XeYr7z0mWrCesPUUIw2vGzSXX0GL4xC0UYxf3KQ61KLlT9XF3c8v_r0Xvo1a7w/embed?start=false&loop=false&delayms=5000"
+  width="800"
+  height="460"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
+[🔗 Open presentation in Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vS3XeYr7z0mWrCesPUUIw2vGzSXX0GL4xC0UYxf3KQ61KLlT9XF3c8v_r0Xvo1a7w/pub)
+
 
 [MRRL]: https://www.umass.edu/robotics/mrrl
 [Pose]: https://google.github.io/mediapipe/solutions/pose.html#:~:text=MediaPipe%20Pose%20is%20a%20ML,ML%20Kit%20Pose%20Detection%20API. 

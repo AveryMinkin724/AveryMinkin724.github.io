@@ -21,6 +21,9 @@ Mediapipe ['Pose'][Pose] and ['Hands'][Hands] only support singlebody tracking. 
 
 [Literature Review.pdf](https://github.com/AveryMinkin/AveryMinkin.github.io/files/10449816/Literature.Review.pdf)
 
+## Final Report
+
+
 ## Scripts
 
 {% highlight ruby %}

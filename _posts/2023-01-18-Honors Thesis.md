@@ -18,11 +18,10 @@ Initial trial to use YOLO to crop "person" objects in a frame and run hand or po
 Mediapipe ['Pose'][Pose] and ['Hands'][Hands] only support singlebody tracking. Using the YOLO module to crop bodies to get data from multiple bodies in one frame was successful. More work is required to increase the accuracy of the tracking and improve the latency of the system. Wearable trackers may need to be incorporated to prevent these problems.
 
 ## Literature Review
-
 [Literature Review.pdf](https://github.com/AveryMinkin/AveryMinkin.github.io/files/10449816/Literature.Review.pdf)
 
 ## Final Report
-
+[Final Report] (https://github.com/AveryMinkin724/AveryMinkin724.github.io/blob/main/assets/pdf/Honors%20Thesis%20Final%20Report%20(1).pdf)
 
 ## Scripts
 

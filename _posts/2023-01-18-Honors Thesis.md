@@ -25,11 +25,7 @@ Mediapipe ['Pose'][Pose] and ['Hands'][Hands] only support singlebody tracking. 
 
 ## Scripts
 
-{% highlight ruby %}
-
-   #Pending...
-
-{% endhighlight %}
+🔗 https://github.com/AveryMinkin724/Honors-Thesis-Motion-Capture-Injection-Training-Scipts---Files
 
 ## MASS URC Thesis Presentation 
 

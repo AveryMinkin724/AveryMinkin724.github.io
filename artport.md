@@ -23,5 +23,3 @@
 ![Animal Sketches](https://user-images.githubusercontent.com/116295445/213799344-1b157ebb-6735-495a-acbd-5d41c4fd7096.jpg)
 ## There's a Metaphor in Here Somewhere
 ![2 cities](https://user-images.githubusercontent.com/116295445/213799493-dfb2fbee-e662-46ee-b762-d72e9a874b47.jpg)
-## Sketch
-![Sketch](https://user-images.githubusercontent.com/116295445/213799585-981f86af-2fb5-4476-b6c9-0dda2c02e745.jpg)

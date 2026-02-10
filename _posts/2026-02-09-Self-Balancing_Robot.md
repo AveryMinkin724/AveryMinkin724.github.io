@@ -19,7 +19,7 @@ I designed and built a two-wheel, self-balancing robot using a custom, lightweig
 - Motor control via PWM + L298N driver
 
 ## Architecture
-![Self-Balancing Robot](/assets/media/sbp_image.jpeg)
+<img src="/assets/media/sbp_image.jpeg" width="720" alt="Self-Balancing Robot Image">
 
 ## Key Challenges
 - Real-time scheduling and task prioritization

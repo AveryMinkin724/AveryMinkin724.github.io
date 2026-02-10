@@ -6,7 +6,7 @@ tags: [embedded, RTOS, control-systems, robotics]
 ---
 
 ## Overview
-I designed and implemented a two-wheel self-balancing robot using a custom, lightweight RTOS on the Tiva C LaunchPad.
+I designed and built a two-wheel, self-balancing robot using a custom, lightweight RTOS on the Tiva C LaunchPad.
 
 
 

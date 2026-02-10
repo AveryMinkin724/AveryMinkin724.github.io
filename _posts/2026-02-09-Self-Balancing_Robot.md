@@ -19,7 +19,7 @@ I designed and implemented a two-wheel self-balancing robot using a custom, ligh
 - Motor control via PWM + L298N driver
 
 ## Architecture
-(you can add diagrams, images, code snippets here)
+<img src="/assets/media/sbp_image.jpg" width="720" alt="Self-balancing robot">
 
 ## Key Challenges
 - Real-time scheduling and task prioritization
@@ -27,6 +27,10 @@ I designed and implemented a two-wheel self-balancing robot using a custom, ligh
 - Stability tuning of PID parameters
 
 ## Demo
-(Add video, images, or GitHub link)
+<video width="720" controls>
+  <source src="/assets/media/sbp_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 

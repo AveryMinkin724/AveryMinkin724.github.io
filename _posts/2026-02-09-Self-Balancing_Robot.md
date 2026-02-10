@@ -8,6 +8,8 @@ tags: [embedded, RTOS, control-systems, robotics]
 ## Overview
 I designed and implemented a two-wheel self-balancing robot using a custom, lightweight RTOS on the Tiva C LaunchPad.
 
+
+
 ## Technical Highlights
 - Custom RTOS (Based on MIROS from Miros Samek's Qunatum Leaps Course)
 - MPU6050 IMU with Complementary filter
